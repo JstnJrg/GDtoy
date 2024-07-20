@@ -41,7 +41,6 @@ enum tk_type {
 	
 	
 	#keywords
-	#NILL, # nao definido # 6 # já o declaramos no ambiente
 	LET, # 7,
 	CONST,
 	FN, #funcao
@@ -55,7 +54,7 @@ enum tk_type {
 	ELSE,
 	
 	ERROR,
-	EOF # caracter que marcao fim d ficheiro
+	EOF
 }
 
 ##palavras chaves

@@ -1,5 +1,5 @@
-## **[GDtoy](https://github.com/JstnJrg/GDtoy/archive/refs/heads/main.zip) 👀✨
-**GDtoy is a toy programming language that can be easily implemented in different projects in order to enrich them
+## [GDtoy](https://github.com/JstnJrg/GDtoy/archive/refs/heads/main.zip) 👀✨
+**GDtoy is a toy programming language that can be easily implemented in different projects in order to enrich them**
 
 
 **Why you should use** 🎁
@@ -8,7 +8,7 @@ haha can be used in many situations, such as:
 - implement a scripting language in a specific project
 - create toy language for educational purposes and so on.. 😁👍
 
-** supports a set of structures such as: 🤞
+**supports a set of structures such as:🤞**
 - if/elif/else
 - binary operations
 - while
@@ -19,10 +19,8 @@ haha can be used in many situations, such as:
 - object
 and so on...
 
-**Given the current context, there is still a lot left to do, but it is a start.. 😁😊🐱‍🏍
+**Given the current context, there is still a lot left to do, but it is a start..😁😊🐱‍🏍**
 
-![Image 1]
-(https://raw.githubusercontent.com/JstnJrg/GDtoy/main/scrsht/1.PNG)
+![Image 1](https://raw.githubusercontent.com/JstnJrg/GDtoy/main/scrsht/1.PNG)
 
-![Image 2]
-(https://raw.githubusercontent.com/JstnJrg/GDtoy/main/scrsht/2.PNG)
+![Image 2](https://raw.githubusercontent.com/JstnJrg/GDtoy/main/scrsht/2.PNG)

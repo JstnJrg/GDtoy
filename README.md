@@ -21,4 +21,8 @@ and so on...
 
 **Given the current context, there is still a lot left to do, but it is a start.. 😁😊🐱‍🏍
 
-[Image]
+![Image 1]
+(https://raw.githubusercontent.com/JstnJrg/GDtoy/main/scrsht/1.PNG)
+
+![Image 2]
+(https://raw.githubusercontent.com/JstnJrg/GDtoy/main/scrsht/2.PNG)
